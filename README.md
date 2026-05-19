@@ -89,8 +89,6 @@ This project helped practice:
 
 ---
 
-
-## 🧠 Example Gameplay
 Enter your username:
 Poulami
 
@@ -103,7 +101,5 @@ It's lower than that, guess again:
 It's higher than that, guess again:
 375
 You guessed it in 3 tries. The secret number was 375. Nice job!
-
----
 
 🎯 Completed as part of the freeCodeCamp Relational Database Certification.
