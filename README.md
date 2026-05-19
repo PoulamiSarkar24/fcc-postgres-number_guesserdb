@@ -97,12 +97,12 @@ Poulami
 Welcome back, Poulami! You have played 5 games, and your best game took 3 guesses.
 
 Guess the secret number between 1 and 1000:
-- 500
-- It's lower than that, guess again:
-- 250
-- It's higher than that, guess again:
-- 375
-- You guessed it in 3 tries. The secret number was 375. Nice job!
+500
+It's lower than that, guess again:
+250
+It's higher than that, guess again:
+375
+You guessed it in 3 tries. The secret number was 375. Nice job!
 
 ---
 
