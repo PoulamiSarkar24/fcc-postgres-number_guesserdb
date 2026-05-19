@@ -89,6 +89,9 @@ This project helped practice:
 
 ---
 
+## 🧠 Example Gameplay
+
+```text
 Enter your username:
 Poulami
 
